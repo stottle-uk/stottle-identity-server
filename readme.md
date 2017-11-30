@@ -1,1 +1,0 @@
-# stottle-identity-server
